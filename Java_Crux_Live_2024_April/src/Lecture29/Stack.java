@@ -1,8 +1,8 @@
 package Lecture29;
 
 public class Stack {
-	private int arr[];
-	private int top =-1;
+	protected int arr[];
+	protected int top =-1;
 	
 	public Stack() {
 		this.arr = new int[5];

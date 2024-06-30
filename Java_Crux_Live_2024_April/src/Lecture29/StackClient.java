@@ -9,6 +9,7 @@ public class StackClient {
 		s.push(3);
 		s.push(4);
 		s.push(5);
+//		s.arr = new int[0];
 //		s.display();
 //		System.out.println(s.pop());
 //		System.out.println(s.peek());
