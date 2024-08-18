@@ -2,7 +2,7 @@ package Lecture52;
 
 import java.util.Arrays;
 
-public class LongestClearSubsequence {
+public class LongestIncreasingSubsequence {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
